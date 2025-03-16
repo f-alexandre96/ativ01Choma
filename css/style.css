@@ -1,0 +1,34 @@
+/* Corpo e Fundo */
+body {
+    background-color: #000000;
+    color: #EAEAEA; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+h1{
+    color: #000000;
+    background-color: green;
+    width: auto;
+}
+img{
+    width: 200px;
+}
+p{  
+    text-align:justify;
+    width:1000px;
+    margin-left:250px;
+    
+    
+}
+a{
+    color: green;
+}
+a:hover{
+ color: cyan;
+ 
+}
+h2{
+    color: #000000;
+    background-color: green;
+}
